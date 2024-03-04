@@ -1,11 +1,11 @@
 {
   "files": {
     "main.css": "/afghanistan/static/css/main.d8ec5c5d.css",
-    "main.js": "/afghanistan/static/js/main.28589817.js",
+    "main.js": "/afghanistan/static/js/main.3e5c3df8.js",
     "static/js/559.a7952575.chunk.js": "/afghanistan/static/js/559.a7952575.chunk.js",
     "static/js/203.93ce6bd4.chunk.js": "/afghanistan/static/js/203.93ce6bd4.chunk.js",
     "static/js/134.c3966cc8.chunk.js": "/afghanistan/static/js/134.c3966cc8.chunk.js",
-    "static/js/438.a3a33b1b.chunk.js": "/afghanistan/static/js/438.a3a33b1b.chunk.js",
+    "static/js/745.726b01e7.chunk.js": "/afghanistan/static/js/745.726b01e7.chunk.js",
     "static/js/691.8f6a8ad8.chunk.js": "/afghanistan/static/js/691.8f6a8ad8.chunk.js",
     "static/js/990.28535fa7.chunk.js": "/afghanistan/static/js/990.28535fa7.chunk.js",
     "static/js/83.3d3a3c46.chunk.js": "/afghanistan/static/js/83.3d3a3c46.chunk.js",
@@ -24,16 +24,16 @@
     "static/media/worldcover_Legend.png": "/afghanistan/static/media/worldcover_Legend.0b40d4dfbddfa3ceaf63.png",
     "index.html": "/afghanistan/index.html",
     "main.d8ec5c5d.css.map": "/afghanistan/static/css/main.d8ec5c5d.css.map",
-    "main.28589817.js.map": "/afghanistan/static/js/main.28589817.js.map",
+    "main.3e5c3df8.js.map": "/afghanistan/static/js/main.3e5c3df8.js.map",
     "559.a7952575.chunk.js.map": "/afghanistan/static/js/559.a7952575.chunk.js.map",
     "203.93ce6bd4.chunk.js.map": "/afghanistan/static/js/203.93ce6bd4.chunk.js.map",
     "134.c3966cc8.chunk.js.map": "/afghanistan/static/js/134.c3966cc8.chunk.js.map",
-    "438.a3a33b1b.chunk.js.map": "/afghanistan/static/js/438.a3a33b1b.chunk.js.map",
+    "745.726b01e7.chunk.js.map": "/afghanistan/static/js/745.726b01e7.chunk.js.map",
     "691.8f6a8ad8.chunk.js.map": "/afghanistan/static/js/691.8f6a8ad8.chunk.js.map",
     "990.28535fa7.chunk.js.map": "/afghanistan/static/js/990.28535fa7.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.d8ec5c5d.css",
-    "static/js/main.28589817.js"
+    "static/js/main.3e5c3df8.js"
   ]
 }
