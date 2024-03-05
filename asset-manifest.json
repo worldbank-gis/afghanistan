@@ -1,14 +1,16 @@
 {
   "files": {
-    "main.css": "/afghanistan/static/css/main.d8ec5c5d.css",
-    "main.js": "/afghanistan/static/js/main.bd610872.js",
+    "main.css": "/afghanistan/static/css/main.b9070120.css",
+    "main.js": "/afghanistan/static/js/main.77fd2b5b.js",
     "static/js/559.a7952575.chunk.js": "/afghanistan/static/js/559.a7952575.chunk.js",
-    "static/js/464.c3758c1e.chunk.js": "/afghanistan/static/js/464.c3758c1e.chunk.js",
+    "static/js/625.613e8c75.chunk.js": "/afghanistan/static/js/625.613e8c75.chunk.js",
     "static/js/518.8f01a4a1.chunk.js": "/afghanistan/static/js/518.8f01a4a1.chunk.js",
     "static/js/745.726b01e7.chunk.js": "/afghanistan/static/js/745.726b01e7.chunk.js",
     "static/js/691.7336c0ab.chunk.js": "/afghanistan/static/js/691.7336c0ab.chunk.js",
+    "static/js/21.bbedbc34.chunk.js": "/afghanistan/static/js/21.bbedbc34.chunk.js",
     "static/js/921.12b653d2.chunk.js": "/afghanistan/static/js/921.12b653d2.chunk.js",
     "static/js/83.3d3a3c46.chunk.js": "/afghanistan/static/js/83.3d3a3c46.chunk.js",
+    "static/media/clipped_chirps-v2.0.2023.tif": "/afghanistan/static/media/clipped_chirps-v2.0.2023.e9be8889226b44e4f790.tif",
     "static/media/mail-logo.png": "/afghanistan/static/media/mail-logo.531ca38d55fa681c2cf3.png",
     "static/media/logo.png": "/afghanistan/static/media/logo.b398f842dd088e4b0318.png",
     "static/media/water_consumption.jpg": "/afghanistan/static/media/water_consumption.1a2bf674c1aa1bfcf29a.jpg",
@@ -23,16 +25,17 @@
     "static/media/area_icon.jpg": "/afghanistan/static/media/area_icon.bada64debec00980a0bd.jpg",
     "static/media/worldcover_Legend.png": "/afghanistan/static/media/worldcover_Legend.0b40d4dfbddfa3ceaf63.png",
     "index.html": "/afghanistan/index.html",
-    "main.d8ec5c5d.css.map": "/afghanistan/static/css/main.d8ec5c5d.css.map",
-    "main.bd610872.js.map": "/afghanistan/static/js/main.bd610872.js.map",
+    "main.b9070120.css.map": "/afghanistan/static/css/main.b9070120.css.map",
+    "main.77fd2b5b.js.map": "/afghanistan/static/js/main.77fd2b5b.js.map",
     "559.a7952575.chunk.js.map": "/afghanistan/static/js/559.a7952575.chunk.js.map",
-    "464.c3758c1e.chunk.js.map": "/afghanistan/static/js/464.c3758c1e.chunk.js.map",
+    "625.613e8c75.chunk.js.map": "/afghanistan/static/js/625.613e8c75.chunk.js.map",
     "518.8f01a4a1.chunk.js.map": "/afghanistan/static/js/518.8f01a4a1.chunk.js.map",
     "745.726b01e7.chunk.js.map": "/afghanistan/static/js/745.726b01e7.chunk.js.map",
-    "691.7336c0ab.chunk.js.map": "/afghanistan/static/js/691.7336c0ab.chunk.js.map"
+    "691.7336c0ab.chunk.js.map": "/afghanistan/static/js/691.7336c0ab.chunk.js.map",
+    "21.bbedbc34.chunk.js.map": "/afghanistan/static/js/21.bbedbc34.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.d8ec5c5d.css",
-    "static/js/main.bd610872.js"
+    "static/css/main.b9070120.css",
+    "static/js/main.77fd2b5b.js"
   ]
 }
