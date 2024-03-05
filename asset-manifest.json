@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/afghanistan/static/css/main.d8ec5c5d.css",
-    "main.js": "/afghanistan/static/js/main.f3bf43b5.js",
+    "main.js": "/afghanistan/static/js/main.bd610872.js",
     "static/js/559.a7952575.chunk.js": "/afghanistan/static/js/559.a7952575.chunk.js",
-    "static/js/203.3457bf64.chunk.js": "/afghanistan/static/js/203.3457bf64.chunk.js",
-    "static/js/134.c3966cc8.chunk.js": "/afghanistan/static/js/134.c3966cc8.chunk.js",
+    "static/js/464.c3758c1e.chunk.js": "/afghanistan/static/js/464.c3758c1e.chunk.js",
+    "static/js/518.8f01a4a1.chunk.js": "/afghanistan/static/js/518.8f01a4a1.chunk.js",
     "static/js/745.726b01e7.chunk.js": "/afghanistan/static/js/745.726b01e7.chunk.js",
-    "static/js/691.8f6a8ad8.chunk.js": "/afghanistan/static/js/691.8f6a8ad8.chunk.js",
-    "static/js/990.28535fa7.chunk.js": "/afghanistan/static/js/990.28535fa7.chunk.js",
+    "static/js/691.7336c0ab.chunk.js": "/afghanistan/static/js/691.7336c0ab.chunk.js",
+    "static/js/921.12b653d2.chunk.js": "/afghanistan/static/js/921.12b653d2.chunk.js",
     "static/js/83.3d3a3c46.chunk.js": "/afghanistan/static/js/83.3d3a3c46.chunk.js",
     "static/media/mail-logo.png": "/afghanistan/static/media/mail-logo.531ca38d55fa681c2cf3.png",
     "static/media/logo.png": "/afghanistan/static/media/logo.b398f842dd088e4b0318.png",
@@ -24,16 +24,15 @@
     "static/media/worldcover_Legend.png": "/afghanistan/static/media/worldcover_Legend.0b40d4dfbddfa3ceaf63.png",
     "index.html": "/afghanistan/index.html",
     "main.d8ec5c5d.css.map": "/afghanistan/static/css/main.d8ec5c5d.css.map",
-    "main.f3bf43b5.js.map": "/afghanistan/static/js/main.f3bf43b5.js.map",
+    "main.bd610872.js.map": "/afghanistan/static/js/main.bd610872.js.map",
     "559.a7952575.chunk.js.map": "/afghanistan/static/js/559.a7952575.chunk.js.map",
-    "203.3457bf64.chunk.js.map": "/afghanistan/static/js/203.3457bf64.chunk.js.map",
-    "134.c3966cc8.chunk.js.map": "/afghanistan/static/js/134.c3966cc8.chunk.js.map",
+    "464.c3758c1e.chunk.js.map": "/afghanistan/static/js/464.c3758c1e.chunk.js.map",
+    "518.8f01a4a1.chunk.js.map": "/afghanistan/static/js/518.8f01a4a1.chunk.js.map",
     "745.726b01e7.chunk.js.map": "/afghanistan/static/js/745.726b01e7.chunk.js.map",
-    "691.8f6a8ad8.chunk.js.map": "/afghanistan/static/js/691.8f6a8ad8.chunk.js.map",
-    "990.28535fa7.chunk.js.map": "/afghanistan/static/js/990.28535fa7.chunk.js.map"
+    "691.7336c0ab.chunk.js.map": "/afghanistan/static/js/691.7336c0ab.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.d8ec5c5d.css",
-    "static/js/main.f3bf43b5.js"
+    "static/js/main.bd610872.js"
   ]
 }
